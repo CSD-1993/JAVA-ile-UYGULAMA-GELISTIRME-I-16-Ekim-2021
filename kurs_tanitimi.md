@@ -1,4 +1,4 @@
-# Online Java ile Uygulama Geliştirme Kursu
+# Online Java ile Uygulama Geliştirme Kursu (I)
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından düzenlenmektedir. 
 
@@ -29,7 +29,7 @@ Dersler hafta içi __Cumartesi - Pazar__ günleri saat __17:00-00 – 21-00__ sa
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -74,11 +74,11 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV HARİÇ 3400 TL**‘dir. Öğrenci olanlara **KDV HARİÇ 3100 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __3 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
+Programın toplam ücreti **KDV DAHİL 3900 TL**‘dir. Öğrenci olanlara **KDV DAHİL 3600 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZUvf-uoqzsiHN1o6oKTG2ZNEfk13wfhplz9). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZYvcOCrqzsoE9LjyUwfI2VLhtfUHYS1RXv4). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
 
