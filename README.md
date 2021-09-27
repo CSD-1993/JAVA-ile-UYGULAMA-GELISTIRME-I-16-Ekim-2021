@@ -1,7 +1,7 @@
-# JAVA-ile-UYGULAMA-GELISTIRME-(I)-2-Ekim-2021
+# JAVA-ile-UYGULAMA-GELISTIRME-(I)-16-Ekim-2021
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar iş birliği ile düzenlenmektedir.
-+ Kursun __02 Ekim 2021 Cumartesi__ günü başlayacaktır.
++ Kursun __16 Ekim 2021 Cumartesi__ günü başlayacaktır.
 + __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
