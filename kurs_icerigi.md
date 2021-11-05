@@ -8,6 +8,19 @@ Java ile Uygulama Geliştirme (I)
 + Timer sınıfı
 + Çeşiti yararlı sınıfların yazılması
 
+## Özyineleme ve Özyinelemeli Algoritmalar
++ Özyineleme (recursion) kavramı
++ Özyinelemeli algoritmalar (recursive algortihms)
++ Özyineleme bakımından algoritmaların sınıflandırılması
++ Bir algoritmanın özyinelemeli ve özyinelemesiz versiyonlarının karşılaştırılması
++ Örnek uygulamalar
+
+## Bitsel operatörler ve bitsel işlemler
++ Bitsel operatörler (bitwise operations)
++ Bitsel işlemlerin kullanımı 
++ Tamsayının bitleri üzerinde yapılan işlemler (manipulation)
++ Örnek uygulamalar
+
 ## Jar (Java Archive) dosyaları
 + IntelliJ ve Eclipse ile jar oluşturma
 + Birbirlerini kullanan jar dosyaları
