@@ -36,10 +36,9 @@ Java ile Uygulama Geliştirme (I)
 + Effectively final kavramı
 + Anonim sınıflar
 + Anonim sınıfların değişkenleri yakalaması (capture)
-+ Yerel sınıflar
++ Yerel sınıflar (local classes)
 + Sınıf içinde static sınıf bildirimi (nested classes)
 + Sınıf içinde non-static sınıf bildirimi (inner classes)
-+ Yerel sınıflar (local classes)
 + Örnek uygulamalar
 
 ## Java Programlama diline eklenen yeni özellikler
